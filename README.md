@@ -37,7 +37,7 @@ Doctor summary (to see all details, run flutter doctor -v):
 • No issues found!
 ```
 
-**:warning:Number of devices and IDE checked can change according to your local config !**
+**:warning: Number of devices and IDE checked can change according to your local config !**
 
 ### Install the project
 
